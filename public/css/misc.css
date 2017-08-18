@@ -5,3 +5,18 @@
   border-bottom-style: solid;
   border-bottom-width:  7px;
 }
+
+.black-footer{
+  color: #ffffff;
+  background-color: #000000;
+  border-top: #0000ff;
+  border-top-style: solid;
+  border-top-width:  7px;
+}
+
+.dark-left-border{
+
+  padding-left: 25px;
+  border-left: solid #0000ff;
+  border-left-width: 23px
+}
